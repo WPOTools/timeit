@@ -2,7 +2,7 @@ Time it
 ======
 
 <h5>Small bookmarklet that will help to test a web page performance. depends on <a href="https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/NavigationTiming/Overview.html">Navigation Timing draft</a></h5>
-<a href="http://d.pr/i/cmPv">Demo</a>
+<h5><a href="http://d.pr/i/cmPv">Demo</a></h5>
 
 Usage
 --------
